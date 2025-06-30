@@ -37,13 +37,13 @@ How to Download Epson ScanSmart Software
 
 Follow these steps to download the Epson ScanSmart software:
 
-1. Visit the official Epson support site: https://www.epson.com/Support
+1. Visit the official Epson support site.
 2. Type your **printer or scanner model** in the search box (e.g., “Epson L3150” or “WorkForce ES-500W”)
 3. Choose your operating system from the dropdown
 4. Scroll down to the “Utilities” section
 5. Locate and click on **Epson ScanSmart** to download the installer
 
-Alternatively, go directly to: https://epson.com/scansmart
+Alternatively, go directly to our website
 
 Installation Instructions
 -------------------------
