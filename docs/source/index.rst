@@ -17,7 +17,7 @@ Epson ScanSmart is an intuitive scanning software designed for Epson scanners an
 - Save files in PDF, JPEG, or PNG formats
 - Send scans via email or upload to cloud services
 - Perform OCR (Optical Character Recognition) to make text searchable
-- Organize scanned files into folders automatically
+- Organize scanned files into folders automatic
 
 It’s especially popular with models like Epson EcoTank, WorkForce, and FastFoto series.
 
