@@ -4,6 +4,7 @@ Epson ScanSmart Software Download – Complete Guide
 Epson ScanSmart is a powerful and user-friendly scanning utility that allows you to scan, edit, save, and share documents from your Epson scanner or all-in-one printer. Whether you're a home user scanning receipts or a business professional managing documents, ScanSmart offers simple yet efficient tools to streamline your scanning workflow.
 
 `Click Here: Get the Live Epson Printer Support <https://jivo.chat/q8mcwkfnsE>`_ 
+------------------------
 
 In this guide, you’ll learn how to download, install, and use Epson ScanSmart on Windows or macOS.
 
@@ -31,6 +32,7 @@ Epson ScanSmart is available for:
 Supported Epson models include a wide range of **WorkForce**, **EcoTank**, **Perfection**, and **FastFoto** devices. Check the Epson website to confirm compatibility with your device.
 
 `Click Here: Get the Live Epson Printer Support <https://jivo.chat/q8mcwkfnsE>`_ 
+------------------------
 
 How to Download Epson ScanSmart Software
 ----------------------------------------
@@ -75,6 +77,7 @@ When you open Epson ScanSmart for the first time:
 After setup, you're ready to start scanning documents, photos, or business cards.
 
 `Click Here: Get the Live Epson Printer Support <https://jivo.chat/q8mcwkfnsE>`_ 
+------------------------
 
 Features of Epson ScanSmart
 ---------------------------
