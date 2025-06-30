@@ -6,7 +6,7 @@ Epson ScanSmart is a powerful and user-friendly scanning utility that allows you
 `Click Here: Get the Live Epson Printer Support <https://jivo.chat/q8mcwkfnsE>`_ 
 ------------------------
 
-In this guide, you’ll learn how to download, install, and use Epson ScanSmart on Windows or macOS.
+In this guide, you’ll learn how to download, install, and use Epson ScanSmart on Windows or macOS. 
 
 What Is Epson ScanSmart?
 ------------------------
